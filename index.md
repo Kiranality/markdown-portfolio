@@ -2,5 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% Kiranality %}
+
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% [GitHub](http://github.com %}
 
